@@ -1,5 +1,4 @@
 #A notepad where the user can write down their personal data so as not to forget or have quick access to them.
-#required, not required
 
 fName=input("Enter your first name (required): ")
 
